@@ -1,7 +1,7 @@
 import pandas as pd 
 import matplotlib.pyplot as plt 
 
-DF = pd.read_csv('Race_DataFrame.csv')
+DF = pd.read_csv('../Clean_Data/Race_Age_Data/Race_DataFrame.csv')
 DF = DF.set_index('Characteristic')
 
 
