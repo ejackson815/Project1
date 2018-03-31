@@ -34,14 +34,14 @@ def race_plotting(race):
 	raceM=plt.scatter(years, race_M,label="{},Men".format(Race))
 	raceW=plt.scatter(years, race_W,label="{},Women".format(Race))
 
-	title=Race + "'s median weekly earnings from 2002 to 2017"
+	
 	plt.title(Race + "'s median weekly earnings from 2002 to 2017")
 	plt.xlabel("Years")
 	plt.ylabel("median weekly earnings")
 	# Create a legend for our chart
 	plt.legend(handles=[raceW, raceM], loc="best")
 	# Save an image of the chart and print to screen
-	plt.savefig("{}'s median weekly earnings from 2002 to 2017.png.".format(Race))
+	plt.savefig("{}'s median weekly earnings.png.".format(Race))
 	plt.show()
 	plt.close
 
