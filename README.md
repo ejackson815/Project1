@@ -36,3 +36,15 @@ Clean Data End of class (EoC) Tuesday - Team
 Basic analysis- EoC Thursday - Team
 
 Saturday - Compile all portions of Code
+
+# Completed Charts
+    Salary by race
+    Total employees by industry by year
+# Pending Charts
+    Salary by race by gender (Median)
+    Median Salary by year by industry
+    NBA Salary over time as function of time (Scatter)
+    Rate of Growth by income
+    Wage by age group
+        Most popular industry by age group by year
+    
