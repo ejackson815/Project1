@@ -1,6 +1,6 @@
 ## Silicon Valley
 
-## Members:
+## Members
 
         Fahim Rahman
         Elliott Jackson
@@ -40,8 +40,8 @@ Saturday - Compile all portions of Code
 # Completed Charts
     Salary by race
     Total employees by industry by year
-# Pending Charts
     Salary by race by gender (Median)
+# Pending Charts
     Median Salary by year by industry
     NBA Salary over time as function of time (Scatter)
     Rate of Growth by income
