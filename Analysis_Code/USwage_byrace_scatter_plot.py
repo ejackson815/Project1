@@ -36,7 +36,7 @@ def USwage_byrace():
 		'Hispanic or Latino ethnicity Earnings':HL_earning,'White Workers':W_workers,
 		'Asian Workers':A_workers,'Black or African American Workers':BAA_workers,'Hispanic or Latino ethnicity Workers':HL_workers})
                     
-	df.head()
+
 	years=['02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17']
 	#test = df['White Workers']
   
@@ -50,15 +50,15 @@ def USwage_byrace():
 
 	#ploting graph
 
-	plt.ylabel('Median weekly earnings', fontsize = 12)
+	plt.ylabel('Median weekly earnings', fontsize = 12) 
 	plt.xlabel('Years', fontsize = 12)
 	plt.title("US wage time series by race", fontsize = 15)
 	plt.grid()
 	plt.legend(handles=[W_plot,A_plot,BAA_plot,HL_plot], loc="upper left", scatterpoints=1, fontsize=10, markerscale=0.5)
 	note = ("Note:\n Circle size correlates with number of workers")
-	plt.text(6,400,note)
-	plt.show()
-	plt.savefig("USwage_time_series_byrace.png.")
+	plt.text(6,400,note)		
+	plt.savefig("USwage_time_series_byrace.png")
+	plt.show()	
 USwage_byrace()
 
 
