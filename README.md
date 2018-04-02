@@ -41,9 +41,10 @@ Saturday - Compile all portions of Code
     Salary by race
     Total employees by industry by year
     Salary by race by gender (Median)
+    NBA Salary over time as function of time (Line)
 # Pending Charts
     Median Salary by year by industry
-    NBA Salary over time as function of time (Scatter)
+    NBA Salary over time as function of time (Scatter) 
     Rate of Growth by income
     Wage by age group
         Most popular industry by age group by year
