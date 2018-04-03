@@ -1,5 +1,9 @@
 # This is the code for cleaning the NBA data
-#The clean data is returned in the file "NBA_clean.csv"
+#Requires:
+  # 1. nba_salaries_1990_to_2018.csv
+  # 2. Age_player.csv
+# Outputs cleaned data to file
+  # 1. "NBA_clean.csv"
 
 import os
 import csv

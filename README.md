@@ -23,6 +23,7 @@ Gender gaps for industries(1) and age groups(2), Higher median earnies is relate
 ## Good Links for data
 
 https://www.bls.gov/cps/tables.html
+
 https://usawage.com
 
 ## Schedule
@@ -30,11 +31,8 @@ https://usawage.com
 Raw Data: By Tuesday
 BLS data - Matt       
 NBA Data - Fahim
-
 Clean Data End of class (EoC) Tuesday - Team
-
 Basic analysis- EoC Thursday - Team
-
 Saturday - Compile all portions of Code
 
 # Completed Charts
