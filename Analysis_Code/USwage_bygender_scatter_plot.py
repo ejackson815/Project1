@@ -40,14 +40,14 @@ def USwage_bygenderbyrace():
 		 BAA_M.append(DF.loc['B/AA, Men','{}_median_weekly_earnings'.format(year)])
 		 BAA_W.append(DF.loc['B/AA, Women','{}_median_weekly_earnings'.format(year)])
 
-		 N_W_M.append(DF.loc['W, Men','{}_workers_in_000s'.format(year)])
-		 N_W_W.append(DF.loc['W, Women','{}_workers_in_000s'.format(year)])
-		 N_A_M.append(DF.loc['A, Men','{}_workers_in_000s'.format(year)])
-		 N_A_W.append(DF.loc['A, Women','{}_workers_in_000s'.format(year)])
-		 N_HL_M.append(DF.loc['H/L, Men','{}_workers_in_000s'.format(year)])
-		 N_HL_W.append(DF.loc['H/L, Women','{}_workers_in_000s'.format(year)])
-		 N_BAA_M.append(DF.loc['B/AA, Men','{}_workers_in_000s'.format(year)])
-		 N_BAA_W.append(DF.loc['B/AA, Women','{}_workers_in_000s'.format(year)])
+		 N_W_M.append(DF.loc['W, Men','{}_workers_in_000\'s'.format(year)])
+		 N_W_W.append(DF.loc['W, Women','{}_workers_in_000\'s'.format(year)])
+		 N_A_M.append(DF.loc['A, Men','{}_workers_in_000\'s'.format(year)])
+		 N_A_W.append(DF.loc['A, Women','{}_workers_in_000\'s'.format(year)])
+		 N_HL_M.append(DF.loc['H/L, Men','{}_workers_in_000\'s'.format(year)])
+		 N_HL_W.append(DF.loc['H/L, Women','{}_workers_in_000\'s'.format(year)])
+		 N_BAA_M.append(DF.loc['B/AA, Men','{}_workers_in_000\'s'.format(year)])
+		 N_BAA_W.append(DF.loc['B/AA, Women','{}_workers_in_000\'s'.format(year)])
 
 	df=pd.DataFrame({'Years':years,'White Men Workers':N_W_M,
 		'White Women Workers':N_W_W,'Asian Men Workers':N_A_M,

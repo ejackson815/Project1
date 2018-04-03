@@ -1,98 +1,108 @@
-Industry_x,Occupation,16+,16 to 19 ,20 to 24 ,25 to 34 ,35 to 44 ,45 to 54 ,55 to 64 ,65 years,Median,Industry_y,Total Number of workers,Total Median weekly earnings,"Number of workers, Men","Median weekly earnings, Men","Number of workers, Women","Median weekly earnings, women"
-Computer and Math,Computer and mathematical occupations,4804.0,28.0,284.0,1408.0,1286.0,1020.0,642.0,135.0,40.7,Computer and Math,4350.0,1465,3240.0,1552,1110.0,1235
-Computer and Math,Computer and information research scientists,24.0,0.0,1.0,10.0,6.0,4.0,3.0,0.0,-,Computer and Math,23.0,0,13.0,0,9.0,0
-Computer and Math,Computer systems analysts,554.0,0.0,34.0,137.0,132.0,136.0,96.0,19.0,42.8,Computer and Math,522.0,1409,311.0,1495,211.0,1270
-Computer and Math,Information security analysts,105.0,0.0,6.0,24.0,32.0,26.0,16.0,3.0,42.7,Computer and Math,94.0,1725,74.0,1773,20.0,0
-Computer and Math,Computer programmers,473.0,4.0,27.0,125.0,131.0,113.0,62.0,12.0,41.5,Computer and Math,423.0,1483,333.0,1539,89.0,1363
-Computer and Math,"Software developers, applications and systems software",1536.0,5.0,80.0,526.0,433.0,277.0,175.0,40.0,39.5,Computer and Math,1439.0,1792,1174.0,1863,265.0,1543
-Computer and Math,Web developers,204.0,3.0,15.0,65.0,62.0,36.0,19.0,4.0,38.7,Computer and Math,144.0,1235,98.0,1342,46.0,0
-Computer and Math,Computer support specialists,532.0,7.0,42.0,164.0,123.0,102.0,81.0,13.0,40,Computer and Math,443.0,1068,319.0,1134,124.0,919
-Computer and Math,Database administrators,96.0,0.0,5.0,31.0,17.0,26.0,16.0,2.0,42.8,Computer and Math,93.0,1381,56.0,1745,37.0,0
-Computer and Math,Network and computer systems administrators,210.0,4.0,11.0,40.0,62.0,55.0,29.0,9.0,42.8,Computer and Math,193.0,1395,155.0,1396,38.0,0
-Computer and Math,Computer network architects,106.0,0.0,4.0,23.0,37.0,28.0,10.0,4.0,42.1,Computer and Math,100.0,1636,97.0,1659,3.0,0
-Computer and Math,"Computer occupations, all other",693.0,5.0,45.0,189.0,184.0,159.0,90.0,20.0,40.7,Computer and Math,627.0,1194,484.0,1250,142.0,1059
-Computer and Math,Actuaries,29.0,0.0,2.0,14.0,4.0,7.0,1.0,1.0,-,Computer and Math,23.0,0,16.0,0,7.0,0
-Computer and Math,Mathematicians,3.0,0.0,1.0,1.0,2.0,0.0,0.0,0.0,-,Computer and Math,2.0,0,2.0,0,0.0,0
-Computer and Math,Operations research analysts,147.0,0.0,3.0,27.0,37.0,42.0,32.0,7.0,46,Computer and Math,146.0,1396,71.0,1570,74.0,1205
-Computer and Math,Statisticians,87.0,0.0,9.0,33.0,24.0,8.0,11.0,2.0,35.9,Computer and Math,77.0,1433,36.0,0,41.0,0
-Computer and Math,Miscellaneous mathematical science occupations,3.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,-,,2.0,0,1.0,0,1.0,0
-Engineering,Architecture and engineering occupations,3224.0,7.0,221.0,814.0,723.0,690.0,609.0,160.0,43,Engineering,2936.0,1478,2494.0,1518,442.0,1307
-Engineering,"Architects, except naval",253.0,0.0,5.0,66.0,55.0,52.0,53.0,21.0,45,Engineering,196.0,1453,150.0,1650,46.0,0
-Engineering,"Surveyors, cartographers, and photogrammetrists",43.0,0.0,2.0,7.0,17.0,9.0,7.0,2.0,-,Engineering,30.0,0,25.0,0,5.0,0
-Engineering,Aerospace engineers,148.0,1.0,7.0,34.0,28.0,33.0,40.0,7.0,47.4,Engineering,137.0,1892,128.0,1891,9.0,0
-Engineering,Agricultural engineers,2.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,-,Engineering,3.0,0,3.0,0,0.0,0
-Engineering,Biomedical engineers,17.0,0.0,0.0,2.0,8.0,3.0,2.0,1.0,-,Engineering,16.0,0,11.0,0,4.0,0
-Engineering,Chemical engineers,77.0,0.0,6.0,20.0,10.0,20.0,17.0,4.0,45.6,Engineering,78.0,1626,66.0,1631,12.0,0
-Engineering,Civil engineers,461.0,0.0,37.0,118.0,111.0,89.0,82.0,24.0,41.7,Engineering,393.0,1494,332.0,1524,61.0,1343
-Engineering,Computer hardware engineers,80.0,0.0,6.0,18.0,26.0,20.0,8.0,2.0,40.3,Engineering,73.0,1771,60.0,1793,13.0,0
-Engineering,Electrical and electronics engineers,284.0,1.0,14.0,63.0,67.0,73.0,58.0,9.0,44.6,Engineering,276.0,1803,245.0,1772,30.0,0
-Engineering,Environmental engineers,38.0,0.0,2.0,7.0,6.0,10.0,10.0,3.0,-,Engineering,32.0,0,21.0,0,11.0,0
-Engineering,"Industrial engineers, including health and safety",221.0,0.0,16.0,65.0,44.0,47.0,43.0,6.0,41.4,Engineering,213.0,1496,168.0,1520,46.0,0
-Engineering,Marine engineers and naval architects,12.0,0.0,0.0,5.0,2.0,1.0,3.0,2.0,-,Engineering,7.0,0,7.0,0,0.0,0
-Engineering,Materials engineers,32.0,0.0,1.0,4.0,7.0,10.0,8.0,1.0,-,Engineering,32.0,0,28.0,0,5.0,0
-Engineering,Mechanical engineers,344.0,1.0,36.0,92.0,83.0,70.0,49.0,14.0,40.8,Engineering,337.0,1534,311.0,1533,26.0,0
-Engineering,"Mining and geological engineers, including mining safety engineers",11.0,0.0,0.0,3.0,2.0,1.0,3.0,1.0,-,Engineering,12.0,0,10.0,0,1.0,0
-Engineering,Nuclear engineers,8.0,0.0,0.0,2.0,4.0,2.0,0.0,0.0,-,Engineering,7.0,0,7.0,0,0.0,0
-Engineering,Petroleum engineers,24.0,0.0,2.0,8.0,6.0,4.0,4.0,1.0,-,Engineering,23.0,0,17.0,0,6.0,0
-Engineering,"Engineers, all other",582.0,1.0,30.0,164.0,124.0,127.0,110.0,28.0,42.8,Engineering,546.0,1561,473.0,1571,73.0,1436
-Engineering,Drafters,137.0,1.0,16.0,35.0,25.0,31.0,23.0,6.0,41.6,Engineering,122.0,1126,100.0,1149,21.0,0
-Engineering,"Engineering technicians, except drafters",375.0,2.0,34.0,82.0,81.0,76.0,76.0,24.0,44.1,Engineering,339.0,1053,269.0,1102,70.0,884
-Engineering,Surveying and mapping technicians,73.0,0.0,7.0,19.0,15.0,16.0,13.0,3.0,42,Engineering,63.0,1109,61.0,1114,2.0,0
-Service,Community and social service occupations,2635.0,31.0,161.0,627.0,565.0,553.0,496.0,203.0,43.7,Service,2165.0,900,747.0,976,1418.0,857
-Service,Counselors,853.0,17.0,72.0,232.0,183.0,178.0,119.0,52.0,40.4,Service,650.0,897,178.0,901,472.0,894
-Service,Social workers,802.0,4.0,40.0,205.0,189.0,188.0,136.0,40.0,43,Service,714.0,906,122.0,935,591.0,900
-Service,Probation officers and correctional treatment specialists,99.0,0.0,2.0,32.0,32.0,19.0,11.0,3.0,40.5,Service,90.0,881,36.0,0,55.0,858
-Service,Social and human service assistants,232.0,5.0,23.0,51.0,52.0,47.0,40.0,13.0,42.1,Service,189.0,739,48.0,0,141.0,701
-Service,Clergy,406.0,1.0,10.0,53.0,69.0,78.0,126.0,69.0,52.2,Service,342.0,1058,297.0,1073,46.0,0
-Service,"Directors, religious activities and education",81.0,2.0,4.0,14.0,12.0,15.0,26.0,9.0,51.2,Service,61.0,844,36.0,0,25.0,0
-Service,"Religious workers, all other",85.0,2.0,4.0,15.0,14.0,14.0,24.0,13.0,51.2,Service,50.0,831,13.0,0,37.0,0
-Service,Legal occupations,1827.0,2.0,43.0,387.0,441.0,395.0,351.0,208.0,45.8,,1379.0,1443,568.0,1896,811.0,1192
-,Lawyers,1137.0,0.0,4.0,225.0,304.0,247.0,208.0,150.0,46.3,,781.0,1901,444.0,2105,337.0,1753
-,Judicial law clerks,14.0,0.0,0.0,10.0,1.0,1.0,1.0,0.0,-,,13.0,0,7.0,0,6.0,0
-Entertainmnet,Designers,908.0,10.0,73.0,256.0,205.0,168.0,146.0,50.0,41,Entertainment,600.0,1012,327.0,1172,273.0,857
-Entertainmnet,Actors,40.0,1.0,6.0,16.0,7.0,4.0,3.0,3.0,-,Entertainment,17.0,0,11.0,0,6.0,0
-Entertainmnet,Producers and directors,180.0,0.0,13.0,47.0,55.0,29.0,27.0,8.0,41.2,Entertainment,131.0,1489,89.0,1708,43.0,0
-Entertainmnet,"Athletes, coaches, umpires, and related workers",345.0,56.0,57.0,90.0,49.0,47.0,30.0,17.0,31.4,Entertainment,149.0,898,104.0,1031,45.0,0
-Entertainmnet,Dancers and choreographers,21.0,1.0,7.0,6.0,5.0,0.0,1.0,1.0,-,Entertainment,9.0,0,4.0,0,5.0,0
-Entertainmnet,"Musicians, singers, and related workers",188.0,6.0,14.0,48.0,36.0,28.0,28.0,28.0,43.2,Entertainment,41.0,0,29.0,0,12.0,0
-Entertainmnet,"Entertainers and performers, sports and related workers, all other",67.0,2.0,8.0,15.0,16.0,13.0,7.0,5.0,40.5,Entertainment,24.0,0,10.0,0,13.0,0
-Entertainmnet,Announcers,50.0,0.0,5.0,17.0,10.0,8.0,5.0,5.0,40.9,Entertainment,24.0,0,18.0,0,7.0,0
-,"News analysts, reporters and correspondents",84.0,1.0,19.0,23.0,17.0,10.0,8.0,6.0,34.1,Entertainment,72.0,945,30.0,0,42.0,0
-,Public relations specialists,118.0,0.0,14.0,32.0,28.0,20.0,15.0,9.0,40.3,Entertainment,92.0,1339,35.0,0,57.0,1203
-Healthcare,Dentists,159.0,0.0,0.0,31.0,26.0,32.0,45.0,26.0,51,Healthcare,41.0,0,16.0,0,25.0,0
-Healthcare,Dietitians and nutritionists,114.0,0.0,5.0,30.0,21.0,26.0,24.0,9.0,44.3,Healthcare,88.0,991,8.0,0,80.0,996
-Healthcare,Optometrists,51.0,0.0,0.0,9.0,7.0,23.0,8.0,5.0,49.9,Healthcare,19.0,0,6.0,0,13.0,0
-Healthcare,Pharmacists,342.0,0.0,19.0,119.0,66.0,55.0,58.0,24.0,41,Healthcare,254.0,1923,107.0,2228,147.0,1834
-Healthcare,Physicians and surgeons,1079.0,0.0,4.0,254.0,249.0,247.0,203.0,121.0,46.4,Healthcare,815.0,1918,463.0,2277,352.0,1759
-Healthcare,Physician assistants,116.0,0.0,2.0,54.0,26.0,19.0,11.0,4.0,37.6,Healthcare,97.0,1747,31.0,0,66.0,1640
-Healthcare,Podiatrists,12.0,0.0,1.0,0.0,5.0,3.0,1.0,2.0,-,Healthcare,7.0,0,3.0,0,4.0,0
-Healthcare,Audiologists,15.0,0.0,1.0,5.0,2.0,5.0,2.0,0.0,-,Healthcare,13.0,0,1.0,0,12.0,0
-Healthcare,Occupational therapists,122.0,0.0,3.0,34.0,41.0,27.0,16.0,2.0,40.9,Healthcare,74.0,1301,12.0,0,62.0,1273
-Healthcare,Physical therapists,258.0,1.0,11.0,84.0,70.0,54.0,26.0,12.0,40.4,Healthcare,182.0,1317,64.0,1341,118.0,1297
-Healthcare,Radiation therapists,10.0,0.0,0.0,5.0,4.0,0.0,1.0,0.0,-,Healthcare,11.0,0,3.0,0,8.0,0
-Healthcare,Recreational therapists,7.0,0.0,0.0,1.0,1.0,3.0,1.0,0.0,-,Healthcare,5.0,0,1.0,0,3.0,0
-Healthcare,Respiratory therapists,100.0,0.0,2.0,28.0,25.0,19.0,17.0,10.0,43.4,Healthcare,83.0,961,27.0,0,56.0,904
-Healthcare,Speech-language pathologists,141.0,1.0,5.0,43.0,45.0,23.0,16.0,8.0,40.1,Healthcare,106.0,1213,4.0,0,102.0,1214
-Healthcare,Exercise physiologists,5.0,0.0,0.0,3.0,1.0,1.0,0.0,0.0,-,Healthcare,5.0,0,1.0,0,3.0,0
-Healthcare,"Therapists, all other",221.0,1.0,9.0,73.0,53.0,43.0,28.0,15.0,39.9,Healthcare,142.0,983,29.0,0,114.0,947
-Healthcare,Veterinarians,89.0,1.0,2.0,22.0,18.0,22.0,15.0,10.0,46.3,Healthcare,60.0,1840,20.0,0,40.0,0
-Healthcare,Registered nurses,3159.0,2.0,159.0,801.0,707.0,735.0,617.0,137.0,43.5,Healthcare,2536.0,1150,283.0,1260,2253.0,1143
-Healthcare,Nurse anesthetists,35.0,0.0,0.0,8.0,9.0,8.0,9.0,2.0,-,Healthcare,30.0,0,13.0,0,17.0,0
-Healthcare,Nurse midwives,7.0,0.0,0.0,2.0,4.0,1.0,0.0,0.0,-,Healthcare,5.0,0,0.0,0,5.0,0
-Healthcare,Nurse practitioners,175.0,0.0,1.0,35.0,50.0,42.0,36.0,12.0,44.7,Healthcare,141.0,1841,12.0,0,129.0,1832
-Healthcare,"Health diagnosing and treating practitioners, all other",39.0,0.0,1.0,6.0,9.0,12.0,9.0,3.0,-,Healthcare,15.0,0,3.0,0,12.0,0
-Healthcare,Clinical laboratory technologists and technicians,376.0,3.0,42.0,98.0,71.0,85.0,58.0,19.0,41.4,Healthcare,297.0,890,94.0,1061,203.0,845
-Healthcare,Dental hygienists,168.0,0.0,10.0,46.0,34.0,36.0,35.0,7.0,43.4,Healthcare,78.0,1033,5.0,0,73.0,1028
-Healthcare,Diagnostic related technologists and technicians,319.0,0.0,19.0,79.0,76.0,80.0,56.0,9.0,43.3,Healthcare,271.0,1162,85.0,1404,186.0,1041
-Healthcare,Emergency medical technicians and paramedics,223.0,4.0,40.0,71.0,53.0,31.0,20.0,4.0,34.4,Healthcare,203.0,984,145.0,1119,58.0,733
-Healthcare,Health practitioner support technologists and technicians,632.0,13.0,108.0,190.0,152.0,100.0,58.0,11.0,35.5,Healthcare,469.0,710,98.0,858,371.0,678
-Healthcare,Licensed practical and licensed vocational nurses,630.0,5.0,50.0,148.0,145.0,141.0,105.0,37.0,42.6,Healthcare,501.0,815,62.0,817,438.0,814
-Healthcare,Medical records and health information technicians,167.0,1.0,7.0,30.0,34.0,45.0,42.0,7.0,46.8,Healthcare,151.0,763,11.0,0,140.0,761
-Healthcare,"Opticians, dispensing",48.0,1.0,4.0,11.0,5.0,10.0,12.0,6.0,-,Healthcare,43.0,0,13.0,0,30.0,0
-Healthcare,Miscellaneous health technologists and technicians,160.0,3.0,12.0,41.0,42.0,24.0,29.0,8.0,41.1,Healthcare,143.0,811,48.0,0,95.0,746
-Healthcare,Other healthcare practitioners and technical occupations,110.0,2.0,10.0,27.0,24.0,24.0,18.0,5.0,41.6,Healthcare,77.0,1183,49.0,0,28.0,0
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
+Industry_x,Occupation,"Total, 16
+years and
+ over","16 to 19 
+years","20 to 24 
+years","25 to 34 
+years","35 to 44 
+years","45 to 54 
+years","55 to 64 
+years","65 years
+and over","Median
+ age",Industry_y,Total Number of workers,Total Median weekly earnings,"Number of workers, Men","Median weekly earnings, Men","Number of workers, Women","Median weekly earnings, Women"
+Computer and Math,Computer and mathematical occupations,4303.0,25.0,261.0,1190.0,1177.0,989.0,549.0,112.0,41.1,Computer & Math,3879.0,1368,2900.0,1435,979.0,1165
+Computer and Math,Computer and information research scientists,29.0,0.0,1.0,12.0,5.0,5.0,5.0,1.0,0,Computer & Math,27.0,0,22.0,0,5.0,0
+Computer and Math,Computer systems analysts,511.0,1.0,37.0,122.0,140.0,120.0,74.0,17.0,41.9,Computer & Math,419.0,1385,272.0,1460,147.0,1259
+Computer and Math,Information security analysts,68.0,0.0,4.0,12.0,18.0,17.0,14.0,2.0,44.8,Computer & Math,55.0,1419,47.0,0,8.0,0
+Computer and Math,Computer programmers,509.0,3.0,31.0,127.0,131.0,130.0,73.0,15.0,42.1,Computer & Math,438.0,1409,354.0,1447,84.0,1253
+Computer and Math,"Software developers, applications and systems software",1235.0,2.0,64.0,373.0,360.0,290.0,121.0,26.0,40.3,Computer & Math,1141.0,1693,917.0,1736,224.0,1457
+Computer and Math,Web developers,220.0,4.0,23.0,88.0,56.0,27.0,16.0,5.0,36.5,Computer & Math,163.0,1129,105.0,1245,57.0,988
+Computer and Math,Computer support specialists,524.0,7.0,50.0,142.0,135.0,110.0,66.0,13.0,40.3,Computer & Math,503.0,966,371.0,1049,132.0,837
+Computer and Math,Database administrators,108.0,0.0,1.0,21.0,35.0,23.0,24.0,5.0,45.6,Computer & Math,101.0,1517,76.0,1662,25.0,0
+Computer and Math,Network and computer systems administrators,205.0,0.0,7.0,53.0,66.0,53.0,23.0,3.0,41.6,Computer & Math,204.0,1263,162.0,1286,42.0,0
+Computer and Math,Computer network architects,123.0,0.0,3.0,33.0,38.0,31.0,12.0,5.0,42.3,Computer & Math,126.0,1633,111.0,1650,15.0,0
+Computer and Math,"Computer occupations, all other",512.0,9.0,29.0,124.0,135.0,120.0,82.0,13.0,42.2,Computer & Math,452.0,1088,343.0,1122,109.0,984
+Computer and Math,Actuaries,28.0,0.0,4.0,12.0,4.0,6.0,2.0,0.0,0,Computer & Math,29.0,0,15.0,0,14.0,0
+Computer and Math,Mathematicians,3.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0,Computer & Math,2.0,0,2.0,0,0.0,0
+Computer and Math,Operations research analysts,138.0,0.0,3.0,36.0,30.0,38.0,27.0,4.0,44.1,Computer & Math,134.0,1276,61.0,1457,72.0,1233
+Computer and Math,Statisticians,85.0,0.0,4.0,33.0,21.0,17.0,7.0,3.0,38.4,Computer & Math,78.0,1349,39.0,0,39.0,0
+Computer and Math,Miscellaneous mathematical science occupations,5.0,0.0,0.0,1.0,1.0,2.0,0.0,1.0,0,Computer & Math,6.0,0,2.0,0,4.0,0
+Engineering,Architecture and engineering occupations,2798.0,13.0,195.0,652.0,603.0,660.0,544.0,132.0,44,Engineering,2527.0,1377,2150.0,1413,377.0,1158
+Engineering,"Architects, except naval",178.0,0.0,7.0,46.0,44.0,34.0,32.0,15.0,43.8,Engineering,122.0,1329,94.0,1391,29.0,0
+Engineering,"Surveyors, cartographers, and photogrammetrists",41.0,0.0,4.0,12.0,6.0,8.0,8.0,3.0,0,Engineering,33.0,0,27.0,0,6.0,0
+Engineering,Aerospace engineers,147.0,0.0,6.0,31.0,33.0,34.0,38.0,5.0,46.9,Engineering,143.0,1642,121.0,1727,22.0,0
+Engineering,Agricultural engineers,4.0,0.0,0.0,1.0,2.0,1.0,0.0,0.0,0,Engineering,5.0,0,5.0,0,0.0,0
+Engineering,Biomedical engineers,14.0,0.0,1.0,5.0,1.0,4.0,2.0,1.0,0,Engineering,12.0,0,10.0,0,2.0,0
+Engineering,Chemical engineers,79.0,0.0,10.0,23.0,10.0,23.0,13.0,1.0,40.2,Engineering,75.0,1465,64.0,1570,11.0,0
+Engineering,Civil engineers,349.0,0.0,24.0,89.0,64.0,81.0,64.0,27.0,43.8,Engineering,317.0,1383,263.0,1406,53.0,1275
+Engineering,Computer hardware engineers,84.0,0.0,3.0,17.0,24.0,20.0,15.0,4.0,44.5,Engineering,79.0,1744,70.0,1795,9.0,0
+Engineering,Electrical and electronics engineers,271.0,0.0,15.0,62.0,57.0,72.0,51.0,12.0,45.3,Engineering,271.0,1572,242.0,1568,29.0,0
+Engineering,Environmental engineers,42.0,0.0,2.0,11.0,13.0,10.0,4.0,2.0,0,Engineering,40.0,0,31.0,0,9.0,0
+Engineering,"Industrial engineers, including health and safety",194.0,0.0,17.0,44.0,35.0,50.0,40.0,8.0,43.9,Engineering,187.0,1404,155.0,1464,32.0,0
+Engineering,Marine engineers and naval architects,9.0,0.0,1.0,2.0,1.0,5.0,0.0,0.0,0,Engineering,7.0,0,7.0,0,0.0,0
+Engineering,Materials engineers,35.0,0.0,0.0,9.0,8.0,10.0,7.0,1.0,0,Engineering,33.0,0,28.0,0,5.0,0
+Engineering,Mechanical engineers,303.0,0.0,23.0,77.0,72.0,72.0,47.0,12.0,42.6,Engineering,286.0,1434,259.0,1453,27.0,0
+Engineering,"Mining and geological engineers, including mining safety engineers",15.0,0.0,1.0,3.0,5.0,4.0,3.0,0.0,0,Engineering,18.0,0,18.0,0,0.0,0
+Engineering,Nuclear engineers,5.0,0.0,1.0,2.0,2.0,0.0,1.0,0.0,0,Engineering,5.0,0,5.0,0,0.0,0
+Engineering,Petroleum engineers,37.0,0.0,1.0,12.0,10.0,6.0,8.0,1.0,0,Engineering,36.0,0,26.0,0,9.0,0
+Engineering,"Engineers, all other",406.0,3.0,14.0,92.0,88.0,96.0,88.0,25.0,45.8,Engineering,362.0,1463,317.0,1488,44.0,0
+Engineering,Drafters,138.0,0.0,17.0,26.0,36.0,32.0,24.0,2.0,41.7,Engineering,122.0,979,102.0,986,20.0,0
+Engineering,"Engineering technicians, except drafters",369.0,5.0,38.0,69.0,75.0,85.0,84.0,12.0,44,Engineering,321.0,989,253.0,1066,68.0,785
+Engineering,Surveying and mapping technicians,77.0,3.0,10.0,17.0,17.0,14.0,15.0,1.0,40.6,Engineering,56.0,879,54.0,882,2.0,0
+Service,Community and social service occupations,2495.0,20.0,142.0,586.0,588.0,542.0,446.0,172.0,43.6,Service,2005.0,858,741.0,934,1264.0,824
+Service,Counselors,737.0,16.0,50.0,189.0,164.0,144.0,134.0,39.0,42.5,Service,552.0,849,174.0,885,378.0,831
+Service,Social workers,799.0,0.0,33.0,219.0,215.0,178.0,117.0,36.0,41.8,Service,690.0,844,127.0,892,563.0,839
+Service,Probation officers and correctional treatment specialists,100.0,0.0,2.0,24.0,39.0,24.0,11.0,0.0,41.5,Service,95.0,999,45.0,0,50.0,1141
+Service,Social and human service assistants,180.0,1.0,16.0,40.0,42.0,36.0,34.0,11.0,42.9,Service,142.0,716,29.0,0,113.0,673
+Service,"Miscellaneous community and social service specialists, including health educators and community health workers",114.0,2.0,10.0,27.0,22.0,22.0,23.0,9.0,44,Service,93.0,773,26.0,0,66.0,747
+Service,Clergy,433.0,1.0,16.0,61.0,80.0,109.0,101.0,67.0,50.5,Service,356.0,958,303.0,1007,53.0,763
+Service,"Directors, religious activities and education",64.0,0.0,6.0,18.0,11.0,11.0,15.0,3.0,41.9,Service,37.0,0,20.0,0,18.0,0
+Service,"Religious workers, all other",68.0,1.0,8.0,9.0,15.0,19.0,10.0,6.0,44.6,Service,40.0,0,17.0,0,23.0,0
+Service,Legal occupations,1814.0,5.0,37.0,388.0,405.0,431.0,387.0,160.0,46.3,,1313.0,1271,591.0,1765,722.0,1001
+Service,Lawyers,1132.0,0.0,5.0,223.0,276.0,254.0,250.0,123.0,47,,737.0,1807,486.0,1915,251.0,1590
+Entertainmnet,Artists and related workers,203.0,2.0,9.0,38.0,37.0,44.0,49.0,24.0,48,Entertainment,65.0,1166,43.0,0,22.0,0
+Entertainmnet,Designers,830.0,5.0,72.0,216.0,187.0,179.0,125.0,46.0,41.8,Entertainment,546.0,921,289.0,1020,257.0,812
+Entertainmnet,Actors,43.0,3.0,4.0,9.0,10.0,9.0,4.0,4.0,0,Entertainment,13.0,0,8.0,0,5.0,0
+Entertainmnet,Producers and directors,161.0,0.0,15.0,48.0,31.0,35.0,24.0,8.0,40.5,Entertainment,101.0,1192,66.0,1224,35.0,0
+Entertainmnet,"Athletes, coaches, umpires, and related workers",294.0,37.0,61.0,71.0,55.0,33.0,27.0,10.0,31.7,Entertainment,113.0,871,83.0,974,29.0,0
+Entertainmnet,Dancers and choreographers,18.0,2.0,6.0,5.0,1.0,2.0,2.0,1.0,0,Entertainment,8.0,0,0.0,0,8.0,0
+Entertainmnet,"Musicians, singers, and related workers",194.0,4.0,13.0,40.0,37.0,39.0,37.0,24.0,46.9,Entertainment,39.0,0,28.0,0,11.0,0
+Entertainmnet,"Entertainers and performers, sports and related workers, all other",38.0,2.0,6.0,9.0,9.0,3.0,6.0,3.0,0,Entertainment,10.0,0,4.0,0,6.0,0
+Entertainmnet,Announcers,60.0,0.0,9.0,19.0,15.0,8.0,7.0,2.0,38.2,Entertainment,28.0,0,23.0,0,5.0,0
+Entertainmnet,"News analysts, reporters and correspondents",80.0,1.0,16.0,30.0,16.0,9.0,5.0,3.0,33.6,Entertainment,59.0,802,35.0,0,24.0,0
+Healthcare,Chiropractors,66.0,0.0,0.0,12.0,16.0,17.0,14.0,8.0,45.7,Healthcare,18.0,0,16.0,0,2.0,0
+Healthcare,Dentists,192.0,0.0,2.0,28.0,51.0,34.0,47.0,30.0,49,Healthcare,61.0,1908,38.0,0,22.0,0
+Healthcare,Dietitians and nutritionists,123.0,1.0,9.0,34.0,20.0,27.0,25.0,6.0,43.3,Healthcare,86.0,919,6.0,0,80.0,875
+Healthcare,Optometrists,48.0,0.0,0.0,8.0,12.0,12.0,12.0,4.0,0,Healthcare,28.0,0,17.0,0,10.0,0
+Healthcare,Pharmacists,293.0,0.0,12.0,90.0,70.0,54.0,47.0,20.0,42,Healthcare,214.0,1995,103.0,2176,111.0,1902
+Healthcare,Physicians and surgeons,1014.0,0.0,9.0,224.0,262.0,221.0,189.0,108.0,45.8,Healthcare,759.0,1661,475.0,2002,284.0,1246
+Healthcare,Physician assistants,84.0,0.0,4.0,34.0,19.0,11.0,14.0,2.0,38.7,Healthcare,71.0,1619,22.0,0,49.0,0
+Healthcare,Podiatrists,8.0,0.0,0.0,1.0,4.0,2.0,1.0,0.0,0,Healthcare,2.0,0,1.0,0,0.0,0
+Healthcare,Audiologists,20.0,0.0,0.0,6.0,3.0,4.0,4.0,3.0,0,Healthcare,11.0,0,2.0,0,9.0,0
+Healthcare,Occupational therapists,111.0,1.0,3.0,36.0,28.0,26.0,14.0,3.0,40.8,Healthcare,80.0,1146,7.0,0,72.0,1139
+Healthcare,Physical therapists,244.0,0.0,5.0,76.0,71.0,57.0,27.0,8.0,41.1,Healthcare,193.0,1387,74.0,1478,118.0,1307
+Healthcare,Radiation therapists,17.0,0.0,0.0,4.0,2.0,6.0,5.0,0.0,0,Healthcare,12.0,0,5.0,0,7.0,0
+Healthcare,Recreational therapists,10.0,0.0,0.0,4.0,2.0,2.0,1.0,1.0,0,Healthcare,10.0,0,3.0,0,7.0,0
+Healthcare,Respiratory therapists,112.0,0.0,1.0,26.0,31.0,25.0,24.0,4.0,43.4,Healthcare,95.0,1037,38.0,0,57.0,906
+Healthcare,Speech0language pathologists,137.0,0.0,2.0,43.0,42.0,25.0,21.0,4.0,41,Healthcare,101.0,1086,3.0,0,98.0,1089
+Healthcare,Exercise physiologists,5.0,0.0,1.0,1.0,1.0,0.0,2.0,0.0,0,Healthcare,2.0,0,1.0,0,1.0,0
+Healthcare,"Therapists, all other",186.0,0.0,10.0,59.0,51.0,33.0,21.0,12.0,40.2,Healthcare,119.0,908,28.0,0,91.0,863
+Healthcare,Veterinarians,81.0,0.0,1.0,14.0,23.0,17.0,20.0,6.0,47.3,Healthcare,38.0,0,9.0,0,29.0,0
+Healthcare,Registered nurses,2888.0,2.0,121.0,733.0,687.0,686.0,535.0,124.0,43.7,Healthcare,2309.0,1090,245.0,1190,2064.0,1076
+Healthcare,Nurse anesthetists,30.0,0.0,0.0,6.0,12.0,9.0,3.0,0.0,0,Healthcare,24.0,0,9.0,0,15.0,0
+Healthcare,Nurse midwives,4.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0,Healthcare,2.0,0,0.0,0,2.0,0
+Healthcare,Nurse practitioners,128.0,0.0,0.0,31.0,26.0,31.0,32.0,7.0,46.6,Healthcare,100.0,1683,9.0,0,90.0,1682
+Healthcare,"Health diagnosing and treating practitioners, all other",24.0,0.0,1.0,4.0,4.0,7.0,5.0,3.0,0,Healthcare,7.0,0,1.0,0,6.0,0
+Healthcare,Clinical laboratory technologists and technicians,293.0,1.0,18.0,76.0,66.0,60.0,57.0,15.0,43.5,Healthcare,264.0,824,70.0,878,194.0,818
+Healthcare,Dental hygienists,175.0,0.0,8.0,56.0,47.0,37.0,25.0,3.0,40.8,Healthcare,87.0,957,5.0,0,82.0,951
+Healthcare,Diagnostic related technologists and technicians,331.0,0.0,16.0,88.0,84.0,72.0,64.0,8.0,42.8,Healthcare,256.0,991,70.0,1156,187.0,940
+Healthcare,Emergency medical technicians and paramedics,232.0,3.0,37.0,86.0,55.0,33.0,14.0,3.0,32.4,Healthcare,207.0,754,152.0,791,55.0,709
+Healthcare,Health practitioner support technologists and technicians,583.0,13.0,87.0,200.0,120.0,92.0,59.0,11.0,35.1,Healthcare,443.0,618,93.0,618,350.0,618
+Healthcare,Licensed practical and licensed vocational nurses,641.0,5.0,63.0,140.0,141.0,138.0,126.0,28.0,43.3,Healthcare,506.0,751,55.0,868,451.0,737
+Healthcare,Medical records and health information technicians,138.0,0.0,5.0,27.0,30.0,39.0,32.0,6.0,46.5,Healthcare,120.0,790,16.0,0,104.0,796
+Healthcare,"Opticians, dispensing",46.0,0.0,2.0,11.0,7.0,10.0,11.0,4.0,0,Healthcare,28.0,0,11.0,0,17.0,0
+Healthcare,Miscellaneous health technologists and technicians,123.0,1.0,11.0,27.0,25.0,35.0,20.0,5.0,45,Healthcare,92.0,820,33.0,0,58.0,690
+Healthcare,Other healthcare practitioners and technical occupations,108.0,0.0,5.0,32.0,30.0,19.0,19.0,3.0,41.1,Healthcare,93.0,1000,43.0,0,50.0,930
+Healthcare,,,,,,,,,,,,,,,,,
+Healthcare,,,,,,,,,,,,,,,,,
+Healthcare,,,,,,,,,,,,,,,,,
+Healthcare,,,,,,,,,,,,,,,,,

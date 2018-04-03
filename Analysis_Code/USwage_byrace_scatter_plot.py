@@ -26,10 +26,10 @@ def USwage_byrace():
     	 BAA_earning.append(DF.loc["Black or African American",'{}_median_weekly_earnings'.format(year)])
     	 HL_earning.append(DF.loc["Hispanic or Latino ethnicity",'{}_median_weekly_earnings'.format(year)])
     	 
-    	 W_workers.append(DF.loc["White",'{}_workers_in_000s'.format(year)])
-    	 A_workers.append(DF.loc["Asian",'{}_workers_in_000s'.format(year)])
-    	 BAA_workers.append(DF.loc["Black or African American",'{}_workers_in_000s'.format(year)])
-    	 HL_workers.append(DF.loc["Hispanic or Latino ethnicity",'{}_workers_in_000s'.format(year)])
+    	 W_workers.append(DF.loc["White",'{}_workers_in_000\'s'.format(year)])
+    	 A_workers.append(DF.loc["Asian",'{}_workers_in_000\'s'.format(year)])
+    	 BAA_workers.append(DF.loc["Black or African American",'{}_workers_in_000\'s'.format(year)])
+    	 HL_workers.append(DF.loc["Hispanic or Latino ethnicity",'{}_workers_in_000\'s'.format(year)])
 
 	df=pd.DataFrame({'Years':years,'White Earnings':W_earning,
 		'Asian Earnings':A_earning,'Black or African American Earnings':BAA_earning,
