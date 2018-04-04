@@ -16,6 +16,11 @@ Analyze the salary distribution among multiple industries, how has it change ove
 
 Industries: engineer,legal, data analytics, nfl (tbd), office and admin support
 
+### Path to Final Python Notebooks
+
+"Data Cleaning and Exporation" --> Contained Clean Data folder
+"Final Analysis" --> Analysis_Code
+
 ## Plots
 
 Gender gaps for industries(1) and age groups(2), Higher median earnies is related to industry success (3), Change in earings over time (4)
@@ -23,8 +28,10 @@ Gender gaps for industries(1) and age groups(2), Higher median earnies is relate
 ## Good Links for data
 
 https://www.bls.gov/cps/tables.html
-
 https://usawage.com
+https://www.bls.gov/cps/tables.htm
+https://data.world/gmoney/nba-all-stars-2000-2016
+https://data.world/datadavis/nba-salaries
 
 ## Schedule
 
@@ -35,15 +42,5 @@ Clean Data End of class (EoC) Tuesday - Team
 Basic analysis- EoC Thursday - Team
 Saturday - Compile all portions of Code
 
-# Completed Charts
-    Salary by race
-    Total employees by industry by year
-    Salary by race by gender (Median)
-    NBA Salary over time as function of time (Line)
-# Pending Charts
-    Median Salary by year by industry
-    NBA Salary over time as function of time (Scatter) 
-    Rate of Growth by income
-    Wage by age group
-        Most popular industry by age group by year
+
     
