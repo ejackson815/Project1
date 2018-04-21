@@ -1,0 +1,30 @@
+Put raw data into the database
+Analyzing the data that already exists
+    Might be creating summary tables from raw data
+
+use miscellaneous_db
+select -- give me results back
+* which columns
+from (filename) -- what tables
+
+where country = "poland"
+column name + like "% text %" to get everything back like the text 
+
+SQL Merge --> Join two tables 
+    Join on ID key column
+    select [column_name]..# make sure to put database name.column
+    from players left join matches on players.playerid = matches.loser_id
+    limit 10;
+
+4/10 Adgenda
+--Subqueries
+
+--Views
+--Foreign Keys
+--Union
+--Wildcards
+--Self joins
+--Acid Acryonym (in regards to databases)
+
+Whats an ORM
+What is benefits of using an ORM
